@@ -1,0 +1,8 @@
+c:\users\user\source\repos\SSOGameExample\SSOClient\obj\Debug\SSOClient.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\SSOGameExample\SSOClient\obj\Debug\SSOClient.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\SSOGameExample\SSOClient\bin\Debug\SSOClient.dll
+c:\users\user\source\repos\SSOGameExample\SSOClient\bin\Debug\SSOClient.pdb
+c:\users\user\source\repos\SSOGameExample\SSOClient\obj\Debug\SSOClient.dll
+c:\users\user\source\repos\SSOGameExample\SSOClient\obj\Debug\SSOClient.pdb
+c:\users\user\source\repos\SSOGameExample\SSOClient\bin\Debug\Newtonsoft.Json.dll
+c:\users\user\source\repos\SSOGameExample\SSOClient\bin\Debug\Newtonsoft.Json.xml

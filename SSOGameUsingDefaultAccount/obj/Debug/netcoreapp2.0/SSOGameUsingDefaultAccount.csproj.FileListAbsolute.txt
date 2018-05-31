@@ -1,0 +1,13 @@
+c:\users\user\source\repos\SSOGameExample\SSOGameUsingDefaultAccount\bin\Debug\netcoreapp2.0\SSOGameUsingDefaultAccount.deps.json
+c:\users\user\source\repos\SSOGameExample\SSOGameUsingDefaultAccount\bin\Debug\netcoreapp2.0\SSOGameUsingDefaultAccount.runtimeconfig.json
+c:\users\user\source\repos\SSOGameExample\SSOGameUsingDefaultAccount\bin\Debug\netcoreapp2.0\SSOGameUsingDefaultAccount.runtimeconfig.dev.json
+c:\users\user\source\repos\SSOGameExample\SSOGameUsingDefaultAccount\bin\Debug\netcoreapp2.0\SSOGameUsingDefaultAccount.dll
+c:\users\user\source\repos\SSOGameExample\SSOGameUsingDefaultAccount\bin\Debug\netcoreapp2.0\SSOGameUsingDefaultAccount.pdb
+c:\users\user\source\repos\SSOGameExample\SSOGameUsingDefaultAccount\bin\Debug\netcoreapp2.0\SSOClient.dll
+c:\users\user\source\repos\SSOGameExample\SSOGameUsingDefaultAccount\bin\Debug\netcoreapp2.0\SSOClient.pdb
+c:\users\user\source\repos\SSOGameExample\SSOGameUsingDefaultAccount\obj\Debug\netcoreapp2.0\SSOGameUsingDefaultAccount.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\SSOGameExample\SSOGameUsingDefaultAccount\obj\Debug\netcoreapp2.0\SSOGameUsingDefaultAccount.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\SSOGameExample\SSOGameUsingDefaultAccount\obj\Debug\netcoreapp2.0\SSOGameUsingDefaultAccount.AssemblyInfoInputs.cache
+c:\users\user\source\repos\SSOGameExample\SSOGameUsingDefaultAccount\obj\Debug\netcoreapp2.0\SSOGameUsingDefaultAccount.AssemblyInfo.cs
+c:\users\user\source\repos\SSOGameExample\SSOGameUsingDefaultAccount\obj\Debug\netcoreapp2.0\SSOGameUsingDefaultAccount.dll
+c:\users\user\source\repos\SSOGameExample\SSOGameUsingDefaultAccount\obj\Debug\netcoreapp2.0\SSOGameUsingDefaultAccount.pdb

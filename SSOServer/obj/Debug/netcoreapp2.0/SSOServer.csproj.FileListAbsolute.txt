@@ -1,0 +1,13 @@
+c:\users\user\source\repos\SSOGameExample\SSOServer\obj\Debug\netcoreapp2.0\SSOServer.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\SSOGameExample\SSOServer\obj\Debug\netcoreapp2.0\SSOServer.AssemblyInfoInputs.cache
+c:\users\user\source\repos\SSOGameExample\SSOServer\obj\Debug\netcoreapp2.0\SSOServer.AssemblyInfo.cs
+c:\users\user\source\repos\SSOGameExample\SSOServer\bin\Debug\netcoreapp2.0\SSOServer.deps.json
+c:\users\user\source\repos\SSOGameExample\SSOServer\bin\Debug\netcoreapp2.0\SSOServer.runtimeconfig.json
+c:\users\user\source\repos\SSOGameExample\SSOServer\bin\Debug\netcoreapp2.0\SSOServer.runtimeconfig.dev.json
+c:\users\user\source\repos\SSOGameExample\SSOServer\bin\Debug\netcoreapp2.0\SSOServer.dll
+c:\users\user\source\repos\SSOGameExample\SSOServer\bin\Debug\netcoreapp2.0\SSOServer.pdb
+c:\users\user\source\repos\SSOGameExample\SSOServer\obj\Debug\netcoreapp2.0\SSOServer.dll
+c:\users\user\source\repos\SSOGameExample\SSOServer\obj\Debug\netcoreapp2.0\SSOServer.pdb
+c:\users\user\source\repos\SSOGameExample\SSOServer\obj\Debug\netcoreapp2.0\SSOServer.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\SSOGameExample\SSOServer\bin\Debug\netcoreapp2.0\SSOClient.dll
+c:\users\user\source\repos\SSOGameExample\SSOServer\bin\Debug\netcoreapp2.0\SSOClient.pdb

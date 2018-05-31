@@ -1,0 +1,13 @@
+c:\users\user\source\repos\SSOGameExample\SSOCharacterCreation\bin\Debug\netcoreapp2.0\SSOCharacterCreation.deps.json
+c:\users\user\source\repos\SSOGameExample\SSOCharacterCreation\bin\Debug\netcoreapp2.0\SSOCharacterCreation.runtimeconfig.json
+c:\users\user\source\repos\SSOGameExample\SSOCharacterCreation\bin\Debug\netcoreapp2.0\SSOCharacterCreation.runtimeconfig.dev.json
+c:\users\user\source\repos\SSOGameExample\SSOCharacterCreation\bin\Debug\netcoreapp2.0\SSOCharacterCreation.dll
+c:\users\user\source\repos\SSOGameExample\SSOCharacterCreation\bin\Debug\netcoreapp2.0\SSOCharacterCreation.pdb
+c:\users\user\source\repos\SSOGameExample\SSOCharacterCreation\bin\Debug\netcoreapp2.0\SSOClient.dll
+c:\users\user\source\repos\SSOGameExample\SSOCharacterCreation\bin\Debug\netcoreapp2.0\SSOClient.pdb
+c:\users\user\source\repos\SSOGameExample\SSOCharacterCreation\obj\Debug\netcoreapp2.0\SSOCharacterCreation.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\SSOGameExample\SSOCharacterCreation\obj\Debug\netcoreapp2.0\SSOCharacterCreation.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\SSOGameExample\SSOCharacterCreation\obj\Debug\netcoreapp2.0\SSOCharacterCreation.AssemblyInfoInputs.cache
+c:\users\user\source\repos\SSOGameExample\SSOCharacterCreation\obj\Debug\netcoreapp2.0\SSOCharacterCreation.AssemblyInfo.cs
+c:\users\user\source\repos\SSOGameExample\SSOCharacterCreation\obj\Debug\netcoreapp2.0\SSOCharacterCreation.dll
+c:\users\user\source\repos\SSOGameExample\SSOCharacterCreation\obj\Debug\netcoreapp2.0\SSOCharacterCreation.pdb
